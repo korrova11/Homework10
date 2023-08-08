@@ -32,6 +32,5 @@ public class Main {
         //сначала заменим заглавные буквы
         String fullName1 = fullName.replace("Ё", "Е");
         System.out.println(forma + fullName1.replace("ё", "е"));
-
     }
 }
